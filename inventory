@@ -3,35 +3,35 @@ EEUU-[01:10].uclm.es
 [Brasil]
 Brasil-[a:j].uclm.es
 [Mexico]
-[a:j]-Mexico-[0:10].uclm.es
+[a:b]-Mexico-[1:5].uclm.es
 
 [Alemania]
 Alemania-[01:10].uclm.es
 [Francia]
 Francia-[a:j].uclm.es
 [Italia]
-[a:j]-Italia-[0:10].uclm.es
+[a:b]-Italia-[1:5].uclm.es
 
 [Japon]
 Japon-[01:10].uclm.es
 [Indonesia]
 Indonesia-[a:j].uclm.es
 [China]
-[a:j]-China-[0:10].uclm.es
+[a:b]-China-[1:5].uclm.es
 
 [Sudafrica]
 Sudafrica-[01:10].uclm.es
 [Nigeria]
 Nigeria-[a:j].uclm.es
 [Ghana]
-[a:j]-Ghana-[0:10].uclm.es
+[a:b]-Ghana-[1:5].uclm.es
 
 [Australia]
 Australia-[01:10].uclm.es
 [NuevaZelanda]
 NuevaZelanda-[a:j].uclm.es
 [Fiyi]
-[a:j]-Fiyi-[0:10].uclm.es
+[a:b]-Fiyi-[1:5].uclm.es
 
 [America:Children]
 EEUU
